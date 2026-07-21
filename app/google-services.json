@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455545255788",
+    "project_id": "suresh-maths-material-android",
+    "storage_bucket": "suresh-maths-material-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455545255788:android:3ce36469636ba7d0e8e549",
+        "android_client_info": {
+          "package_name": "com.aistudio.sureshmaths.wyljka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tioCBKIxe45KCBTUcOaHszq_KiWCxAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

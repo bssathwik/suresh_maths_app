@@ -1,0 +1,9 @@
+{
+  "name": "Suresh Maths",
+  "description": "Premium educational mathematics platform providing comprehensive notes, worksheets, model papers, quizzes, and administrative management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "MAJOR_CAPABILITY_FIREBASE"
+  ]
+}
